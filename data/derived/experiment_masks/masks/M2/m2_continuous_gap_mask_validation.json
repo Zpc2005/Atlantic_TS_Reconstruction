@@ -1,0 +1,64 @@
+{
+  "checks": {
+    "gap12_continuous": true,
+    "gap12_deterministic": true,
+    "gap12_native_labels": true,
+    "gap12_netcdf_schema": true,
+    "gap12_split_isolation": true,
+    "gap3_continuous": true,
+    "gap3_deterministic": true,
+    "gap3_native_labels": true,
+    "gap3_netcdf_schema": true,
+    "gap3_split_isolation": true,
+    "gap6_continuous": true,
+    "gap6_deterministic": true,
+    "gap6_native_labels": true,
+    "gap6_netcdf_schema": true,
+    "gap6_split_isolation": true,
+    "no_future_window_months": true,
+    "test_windows_do_not_overlap_train_months": true
+  },
+  "depths_m": [
+    1.0,
+    20.0,
+    40.0,
+    120.0
+  ],
+  "eligible_native_label_count": 27018,
+  "mask_sha256": {
+    "12": "4eafecd6965d456f201d4fbc86b94ac75e66f5b3e45b1868c5505f14d02279c6",
+    "3": "588956e31f49c3760615c5296b783e5e3de7af6fceb8525943d07c83f5bf2f9a",
+    "6": "2192ca17c046ccbd3561b0f2854d07cc747f5c4c08e225eec0042eb1b74673b9"
+  },
+  "protocol_id": "m2_continuous_missing_reconstruction_v1",
+  "selection_seed": 20260811,
+  "source_split_path": "artifacts\\splits\\native_observation_splits.csv",
+  "station_count": 20,
+  "status": "pass",
+  "unsupported_series_by_gap_length": {
+    "12": 30,
+    "3": 0,
+    "6": 5
+  },
+  "variables": [
+    "temperature",
+    "salinity"
+  ],
+  "window_counts_by_split": {
+    "12": {
+      "test": 120,
+      "train": 132,
+      "validation": 123
+    },
+    "3": {
+      "test": 144,
+      "train": 133,
+      "validation": 128
+    },
+    "6": {
+      "test": 140,
+      "train": 133,
+      "validation": 127
+    }
+  }
+}

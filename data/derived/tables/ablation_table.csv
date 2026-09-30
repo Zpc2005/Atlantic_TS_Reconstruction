@@ -1,0 +1,25 @@
+model,ablation,variable,depth_m,rmse,r2,acc,n_test,source_result_file
+Mask-aware STGNN v2,Full,Temperature,1.0,1.12501446415,0.621305144847,0.58453769709,109,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Temperature,20.0,1.033260273,0.738619091323,0.738345978048,157,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Temperature,40.0,1.58076240065,0.652419918808,0.567537356669,181,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Temperature,120.0,1.53283312484,0.812796692676,0.63750380997,166,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Salinity,1.0,0.479286101167,0.614228076552,0.67202374963,96,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Salinity,20.0,0.362039068704,0.720724586148,0.679628277528,148,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Salinity,40.0,0.275467969222,0.683919776126,0.547940089281,136,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,Full,Salinity,120.0,0.23701373114,0.865244210794,0.723696214884,144,artifacts/algorithm/mask_aware_stgnn_v2/mask_aware_stgnn_v2_results.csv
+Mask-aware STGNN v2,no-missingness,Temperature,1.0,1.09775574379,0.639434118767,0.587741700124,109,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Temperature,20.0,1.04570985578,0.732282474496,0.732408359847,157,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Temperature,40.0,1.81800513576,0.540260417621,0.496875863913,181,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Temperature,120.0,1.49001644522,0.823108939129,0.646876747184,166,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Salinity,1.0,0.450941119004,0.65850793032,0.70808248989,96,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Salinity,20.0,0.374553030352,0.701084485831,0.660393690817,148,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Salinity,40.0,0.291313695523,0.646510177188,0.504854965305,136,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-missingness,Salinity,120.0,0.238632097161,0.86339766169,0.720931381291,144,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Temperature,1.0,1.13568621137,0.614086564641,0.582193655921,109,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Temperature,20.0,1.18039453053,0.658878748239,0.663416972954,157,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Temperature,40.0,1.67624110049,0.609163913748,0.516463940257,181,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Temperature,120.0,1.71842139739,0.764721031938,0.5835324858,166,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Salinity,1.0,0.48073909992,0.61188552681,0.667493647874,96,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Salinity,20.0,0.382244142116,0.688682522324,0.623822989704,148,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Salinity,40.0,0.282929246207,0.666565299691,0.513136154244,136,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv
+Mask-aware STGNN v2,no-graph,Salinity,120.0,0.239420760656,0.862493246025,0.720012883718,144,artifacts/algorithm/mask_aware_stgnn_v2_fixed_ablation/fixed_ablation_results.csv

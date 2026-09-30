@@ -1,0 +1,5 @@
+numpy==1.26.4
+# CPU-only PyTorch version recorded by the formal environment report.
+torch==2.4.1+cpu
+# pandas/xarray/scikit-learn were not part of the frozen v2 inference environment.
+# Add only after an author-approved dependency audit for full training/plotting workflows.

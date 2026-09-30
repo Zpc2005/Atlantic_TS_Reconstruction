@@ -1,0 +1,9 @@
+﻿package,version,role,license,license_source,redistribution_impact,verification_status
+numpy,1.26.4,array/numerical runtime,BSD-3-Clause,installed metadata and NumPy distribution notice,retain dependency notice,VERIFIED FROM INSTALLED METADATA
+torch,2.4.1+cpu,model/evaluation runtime,BSD-3-Clause,installed metadata,retain PyTorch/dependency notices,VERIFIED FROM INSTALLED METADATA
+pandas,3.0.6,packaging/analysis utility,BSD-3-Clause,installed metadata,retain dependency notice if distributed,VERIFIED FROM INSTALLED METADATA
+matplotlib,3.11.1,plotting utility,PSF-based license; exact notice to retain,installed metadata reports matplotlib; full notice not extracted,retain license notice,TO BE VERIFIED BEFORE PUBLIC RELEASE
+netCDF4,1.7.4,optional NetCDF I/O,TO BE VERIFIED,installed metadata did not expose a license string,retain package notice if used,TO BE VERIFIED BEFORE PUBLIC RELEASE
+xarray,NOT INSTALLED,optional data I/O,TO BE VERIFIED,not installed in formal environment,not included in formal dependency set,NOT APPLICABLE CURRENT ENVIRONMENT
+scikit-learn,NOT INSTALLED,optional baseline utility,TO BE VERIFIED,not installed in formal environment,not included in formal dependency set,NOT APPLICABLE CURRENT ENVIRONMENT
+xgboost,NOT INSTALLED,optional baseline utility,TO BE VERIFIED,not installed in formal environment,not included in formal dependency set,NOT APPLICABLE CURRENT ENVIRONMENT

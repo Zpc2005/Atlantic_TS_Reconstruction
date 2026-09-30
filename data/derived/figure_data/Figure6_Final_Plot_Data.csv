@@ -1,0 +1,1 @@
+case_id,station,time,variable,depth_m,model,observed_value,prediction,residual,mask_id,checkpoint_sha256,prediction_status

@@ -1,0 +1,33 @@
+variable,depth_m,model,RMSE,R2,N,RMSE_rank,R2_rank,source_prediction_file
+Salinity,1,Conditional XGBoost,0.466279264685,0.634882077055,96,2,2,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Salinity,20,Conditional XGBoost,0.314550867222,0.789183985012,148,1,1,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Salinity,40,Conditional XGBoost,0.216835263087,0.804153897993,136,1,1,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Salinity,120,Conditional XGBoost,0.147560084305,0.947767813419,144,1,1,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Temperature,1,Conditional XGBoost,1.18219589665,0.581830755805,109,3,3,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Temperature,20,Conditional XGBoost,1.07124721315,0.719046911951,157,2,2,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Temperature,40,Conditional XGBoost,1.60978439844,0.639539970811,181,4,4,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Temperature,120,Conditional XGBoost,1.07930666293,0.907186002245,166,1,1,artifacts/algorithm/conditional_baselines/conditional_xgboost_v1_predictions.csv
+Salinity,1,Conditional LSTM,0.411015062379,0.716301903647,96,1,1,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Salinity,20,Conditional LSTM,0.339782134589,0.754006910681,148,2,2,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Salinity,40,Conditional LSTM,0.225240657702,0.788676067819,136,2,2,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Salinity,120,Conditional LSTM,0.181915301108,0.920614921818,144,2,2,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Temperature,1,Conditional LSTM,1.22967827881,0.547564998138,109,4,4,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Temperature,20,Conditional LSTM,1.19936250112,0.647827587753,157,4,4,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Temperature,40,Conditional LSTM,1.40735779031,0.72449421124,181,1,1,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Temperature,120,Conditional LSTM,1.16278792256,0.89227294495,166,2,2,artifacts/algorithm/conditional_baselines/conditional_lstm_v1_predictions.csv
+Salinity,1,Conditional STGNN v1,0.470235701482,0.628659648759,96,3,3,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Salinity,20,Conditional STGNN v1,0.375983526953,0.698796883624,148,4,4,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Salinity,40,Conditional STGNN v1,0.280883284909,0.671370231711,136,4,4,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Salinity,120,Conditional STGNN v1,0.238634102712,0.863395365568,144,4,4,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Temperature,1,Conditional STGNN v1,1.1293909535,0.61835304469,109,1,1,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Temperature,20,Conditional STGNN v1,1.11911833775,0.693375802977,157,3,3,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Temperature,40,Conditional STGNN v1,1.58885604446,0.648851525147,181,3,3,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Temperature,120,Conditional STGNN v1,1.42606627957,0.837967107552,166,3,3,artifacts/algorithm/conditional_baselines/conditional_stgnn_v1_predictions.csv
+Salinity,1,Mask-aware STGNN v2,0.475877978457,0.619694888706,96,4,4,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Salinity,20,Mask-aware STGNN v2,0.361039499704,0.722264583926,148,3,3,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Salinity,40,Mask-aware STGNN v2,0.27342299197,0.688595293445,136,3,3,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Salinity,120,Mask-aware STGNN v2,0.233465634816,0.86924860109,144,3,3,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Temperature,1,Mask-aware STGNN v2,1.13831071071,0.612300860388,109,2,2,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Temperature,20,Mask-aware STGNN v2,1.04731957718,0.731457614099,157,1,1,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Temperature,40,Mask-aware STGNN v2,1.56023629595,0.661387926692,181,2,2,artifacts/algorithm/v21_reliability_gate/test_predictions.csv
+Temperature,120,Mask-aware STGNN v2,1.51060546064,0.818186610359,166,4,4,artifacts/algorithm/v21_reliability_gate/test_predictions.csv

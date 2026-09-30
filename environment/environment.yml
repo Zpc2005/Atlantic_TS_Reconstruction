@@ -1,0 +1,12 @@
+name: atlantic-ts-reconstruction-release-candidate
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.10
+  - numpy=1.26.4
+  - pip
+  - pip:
+      - torch==2.4.1
+# CPU-only channel/build and optional plotting/data dependencies require final author verification.

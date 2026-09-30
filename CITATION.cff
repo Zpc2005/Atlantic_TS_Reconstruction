@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Reconstruction of In Situ Salinity and Temperature in tropical Atlantic using Multiple Deep Learning models"
+type: software
+message: "If you use this release, cite the associated manuscript and this release."
+authors:
+  - family-names: Zhao
+    given-names: Pengcheng
+  - family-names: Zhai
+    given-names: Chenxi
+  - family-names: Zhang
+    given-names: Xiaolin
+repository-code: "https://github.com/Zpc2005/Atlantic_TS_Reconstruction"
+version: "v1.0.0"
+date-released: "[AUTHOR TO CONFIRM RELEASE DATE]"
+doi: "[AUTHOR TO CONFIRM DOI]"
+license: "BSD-3-Clause"
