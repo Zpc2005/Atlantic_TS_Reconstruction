@@ -5,4 +5,4 @@
 - Checkpoints and large binaries: excluded from this candidate pending separate release decision.
 - Raw MAT archives, caches, temporary QA files, IDE metadata and local logs: excluded.
 
-The candidate contains source citations, retrieval guidance, filenames, scope metadata and hashes where available. It does not make a public-availability or DOI claim.
+The release contains source citations, retrieval guidance, filenames, scope metadata and hashes where available. Author-generated derived records are archived at https://doi.org/10.5281/zenodo.23120236; this does not imply redistribution of the original PIRATA or WOA23 archives.

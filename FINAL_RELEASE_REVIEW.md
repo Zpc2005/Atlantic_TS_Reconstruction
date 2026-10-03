@@ -10,7 +10,7 @@ Status: READY FOR FINAL AUTHOR REVIEW
 - WOA23 raw redistribution: NO.
 - Checkpoints: NOT INCLUDED.
 - Release version: v1.0.0.
-- Remaining metadata placeholders: release date and DOI.
+- Remaining metadata placeholders: none for the published v1.0.0 record; ORCID remains not provided.
 - GitHub upload ready: NO - final author review and metadata completion remain.
 - Zenodo deposit ready: NO - final author review and metadata completion remain.
 

@@ -12,4 +12,4 @@ The package does not claim one-command or pixel-perfect reproduction of every fi
 
 Repository: https://github.com/Zpc2005/Atlantic_TS_Reconstruction
 
-Checkpoints are not included in `v1.0.0` and may be considered for a later Zenodo version. Release date and DOI remain author-supplied metadata; DOI is not yet assigned.
+Checkpoints are not included in `v1.0.0`. The archived release is available through Zenodo at https://zenodo.org/records/23120236 (version DOI: https://doi.org/10.5281/zenodo.23120236; concept DOI: https://doi.org/10.5281/zenodo.23120235), published on 2026-09-30.

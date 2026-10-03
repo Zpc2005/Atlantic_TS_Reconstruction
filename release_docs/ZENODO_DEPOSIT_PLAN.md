@@ -6,4 +6,4 @@ Potential archive contents: approved derived observations, masks, predictions/ev
 
 Metadata needed: final title, confirmed authors, affiliations, keywords, abstract, license, version, related manuscript, repository URL and release date.
 
-DOI: **[DOI ASSIGNED AFTER DEPOSIT]**.
+Version DOI: **10.5281/zenodo.23120236**. Concept DOI: **10.5281/zenodo.23120235**.

@@ -22,4 +22,4 @@ Author authorization received for the following decisions:
 
 ORCID: NOT PROVIDED / AUTHOR TO CONFIRM.
 Repository URL confirmed: https://github.com/Zpc2005/Atlantic_TS_Reconstruction
-Release date remains pending until the release is created. DOI: NOT YET ASSIGNED.
+Release date: 2026-09-30. Version DOI: 10.5281/zenodo.23120236. Concept DOI: 10.5281/zenodo.23120235.

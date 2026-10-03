@@ -6,7 +6,9 @@
 - Authors: Pengcheng Zhao; Chenxi Zhai; Xiaolin Zhang
 - Corresponding author: Xiaolin Zhang (zhangxiaolin@dlmu.edu.cn)
 - ORCID: NOT PROVIDED / AUTHOR TO CONFIRM
-- Release date: [AUTHOR TO CONFIRM RELEASE DATE]
+- Release date: 2026-09-30
 - Repository URL: https://github.com/Zpc2005/Atlantic_TS_Reconstruction
-- DOI: NOT YET ASSIGNED
+- Version DOI: 10.5281/zenodo.23120236
+- Concept DOI: 10.5281/zenodo.23120235
+- Zenodo record: https://zenodo.org/records/23120236
 - Initial checkpoints: DO NOT INCLUDE
